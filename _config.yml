@@ -1,7 +1,7 @@
 # Site settings
 title: Niass GitDataLab
 email: elhadjisaliou.niass.etu@univ-lille.fr
-url: https://github.com/saliouetu/grayscale-theme
+url: https://github.com/saliouetu/saliouetu.github.io
 description: "As a Master's student in Data Science (University of Lille, Centrale Lille, IMT Nord), I combine analytical skills with a passion for data. This site presents my projects and work completed during my studies, with concrete examples of my skills in analysis, visualization, and machine learning."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -15,7 +15,7 @@ footer: Your Website
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkdn
-    url: www.linkedin.com/in/el-hadji-saliou-niass-2833a4349
+    url: https://www.linkedin.com/in/el-hadji-saliou-niass-2833a4349
 #  - title: stack-overflow
 #    url: http://stackoverflow.com/questions/tagged/jekyll
 #  - title: bitbucket
